@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
+
 using namespace std;
 // Simple calculator practice
     double num1 =0 , num2 =0 ;
