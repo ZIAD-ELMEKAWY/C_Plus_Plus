@@ -49,7 +49,7 @@ Provide step-by-step instructions on how to install your project. For example:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/username/repository.git](https://github.com/ZIAD-ELMEKAWY/C_Plus_Plus.git)
+   (https://github.com/ZIAD-ELMEKAWY/C_Plus_Plus.git)
 ## Projects 
   - 01 _ Hypotenuse calculator
   - 02 _ Simple calculator
