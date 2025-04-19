@@ -31,8 +31,8 @@ Briefly describe what your project does and its purpose. Explain why it is usefu
 - **Modern C++ Features**: Take advantage of features from C++11 and beyond for enhanced productivity.
 
 ## Getting Started
-- C++ Documentation: Refer to ![C++ Refrence](https://cppreference.com) for C++ language documentation.
-- Video for learning basics : ![Video](https://youtu.be/-TkoO8Z07hI?si=fvr23okmGWSxWvey).
+- C++ Documentation: Refer to [C++ Refrence](https://cppreference.com) for C++ language documentation.
+- Video for learning basics : [Video](https://youtu.be/-TkoO8Z07hI?si=fvr23okmGWSxWvey).
 
 ### Prerequisites
 
