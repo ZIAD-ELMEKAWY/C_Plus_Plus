@@ -56,6 +56,7 @@ Provide step-by-step instructions on how to install your project. For example:
   - 01 _ Hypotenuse calculator
   - 02 _ Simple calculator
   - 03 _ Temperature conversion
-  - 04 _ Random Number 
+  - 04 _ Random Number
+  - 05 _ Number Guessing Game
 ## Contact 
  [LinkedIn](https://www.linkedin.com/in/ziad-elmekawy/)
