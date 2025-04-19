@@ -1,7 +1,7 @@
 # C_Plus_Plus
 # Project Name
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![C++](https://img.shields.io/badge/C%2B%2B-11%2B-blue.svg) ![Ziad](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/b3a948bf-a44a-4fc1-97f8-b4ea117bb095.png)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![C++](https://img.shields.io/badge/C%2B%2B-11%2B-blue.svg) 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
+- [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -42,3 +42,8 @@ Provide step-by-step instructions on how to install your project. For example:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
+## Projects 
+  - 01 _ Hypotenuse calculator
+  - 02 _ Simple calculator
+  - 03 _ Temperature conversion
+  - 04 _ Random Number 
