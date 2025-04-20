@@ -58,5 +58,6 @@ Provide step-by-step instructions on how to install your project. For example:
   - 03 _ Temperature conversion
   - 04 _ Random Number
   - 05 _ Number Guessing Game
+  - 06 _ Simple Bank 
 ## Contact 
  [LinkedIn](https://www.linkedin.com/in/ziad-elmekawy/)
